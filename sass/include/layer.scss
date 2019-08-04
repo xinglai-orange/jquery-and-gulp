@@ -1,0 +1,17 @@
+
+  //信息框样式
+  .layui-m-layer-lzAlert{
+    width: 80%!important;
+    
+    .layui-m-layercont{
+      font-size: r(30);
+      word-break:break-all;
+    }
+    .layui-m-layerbtn{
+      span[yes]{
+        font-size: r(30);
+        color:$baseColor;
+      }
+
+    }
+  }
